@@ -10,7 +10,7 @@ conatiner engine= it be like docker
 
 kublet = its environment that check your pod up
 
-kub api = it's communiction b/w pod
+kub Proxy = it's communiction b/w pod
 
 k secret where store = in etcd data store
 
