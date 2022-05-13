@@ -1,0 +1,66 @@
+What is the relation between the Availability Zone and Region?
+What is auto-scaling? 
+How do you upgrade or downgrade a system with near-zero downtime?
+What are the different types of virtualization in AWS?  = Hardware Virtual Machine (HVM), Paravirtualization (PV), Paravirtualization on HVM
+
+What Are Some of the Security Best Practices for Amazon EC2?
+Can S3 Be Used with EC2 Instances, and If Yes, How?
+How do you configure CloudWatch to recover an EC2 instance?
+
+What are some critical differences between AWS S3 and EBS?
+How do you allow a user to gain access to a specific bucket?
+What are the Storage Classes available in Amazon S3?
+
+How do you monitor Amazon VPC?
+How many Subnets can you have per VPC?
+
+What are the different types of load balancers in AWS ?=
+Application Load Balancer
+Network Load Balancer
+Classic Load Balancer
+
+What is the difference between a Domain and a Hosted Zone?
+
+
+Name the initial namespaces from which Kubernetes starts?
+What is etcd?
+What is the LoadBalancer in Kubernetes? 
+What is the difference between a replica set and a replication controller?
+What is a headless service?
+Define daemon sets
+ Why use namespace in Kubernetes?
+ Define Ingress Network
+ What are the tools that are used for container monitoring?
+ Define Stateful sets in Kubernetes
+ What do you mean by persistent volume?
+ Explain Kubernetes, and how can you integrate Jenkins with Kubernetes?
+ 
+ 
+ What is Ansible Tower?
+ How does Ansible Works?
+ Explain Ansible architecture?
+ What is Ansible Galaxy?
+  How do you use Ansible to create encrypted files?
+  
+  What is "Continuous Integration"
+   Name the three different types of pipelines in Jenkins?
+   How can you set up a Jenkins job?
+   How can you create a backup and copy files in Jenkins?
+   What is the use of the JENKINS_HOME directory?
+   Explain a backup plugin and its uses.
+   
+   What are the most useful Terraform commands?
+    What is Terraform init?
+    What do you understand by terraform backend?
+    What are modules in Terraform?
+     Which command destroys Terraform managed infrastructure?
+     Define Resource Graph in Terraform.
+      What do you understand by a Tainted Resource?
+       How will you upgrade plugins on Terraform?
+       
+
+1. What is Hypervisor?
+How do you list all the running containers?
+How to start, stop and kill a container?
+How to build a Dockerfile? 
+ Do you know why docker system prune is used
