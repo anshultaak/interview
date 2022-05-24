@@ -68,3 +68,5 @@ How to build a Dockerfile?
  can kubernetes run on bare metal
  how kubernetes networking works
  kubernetes services ephemeral
+ kubernetes when to use headless service
+ kubernetes when to use statefulset
