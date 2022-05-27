@@ -1,5 +1,5 @@
 My name is Anshul and I am from Pathankot in Punjab.I have total 1.5 year experience in IT industiry and About my skills and knwledege I Have good experinece with Kubentes
-under kubenters Deploy a containerized application on a cluster and Create a Kubernetes cluster, Deploy an app, Explore your app, Expose your app publicly with diferrent
+under kubenters I have experinece Deploy a containerized application on a cluster and Create a Kubernetes cluster, Deploy an app, Explore your app, Expose your app publicly with diferrent
 type services, Scale up or down your application, update application and backup cluster
 
 Helm Charts are simply Kubernetes YAML manifests combined into a single package that can be advertised to your Kubernetes clusters.( Helm is a Kubernetes deployment tool 
@@ -10,7 +10,7 @@ For Automation or CICD I have experince with jenkins is an open-source free auto
 developers to integrate changes to the project. Jenkins' primary focus is to keep track of the version control system and initiate and monitor a build system if there are any changes.
 and little bit I have also experience  Github action
 
-For artificatior side  I have experince with Quay and mainly we use this for store images
+For artificatior side  I have experince with Quay and mainly we use this for store images and I have expernice with docker
 
 on cloudplatorms I have experince with AWS under aws I have experince with different service like ec2 instnace for nodes and for scale up or down nodes we can use autoscaling
 and for traffic managing we can use ELB (elastic load balancer) services and storage side I have experince with S3 and RDS database and EFS(Elastic File system) 
