@@ -12,7 +12,7 @@ and little bit I have also experience  Github action
 
 For artificatior side  I have experince with Quay and mainly we use this for store images and I have expernice with docker
 
-on cloudplatorms I have experince with AWS under aws I have experince with different service like ec2 instnace for nodes and for scale up or down nodes we can use autoscaling
+on cloudplatorms I have experince with AWS under aws I have worked with differnet service like ec2 instnace for nodes and for scale up or down nodes we can use autoscaling
 and for traffic managing we can use ELB (elastic load balancer) services and storage side I have experince with S3 and RDS database and EFS(Elastic File system) 
 it is used one storage on differnet ec2 instance in same region( it is ony use in linux not in window) and on networking I have experince VPC, 
 
