@@ -23,21 +23,6 @@ How can go inside container?
 
 
 
-Ingess is used access app for internet with http or https. firstly we have devlopy app which we want access from internet and created service for that appliction
-we can create clusterip or NOdeport service , these service and appliaction communicate with labels or selector, and then we have to configure ingress contoller , 
-ingress controller is used for traffic manage we can also call ingress controller to L.B, After ingress controller we have to write ingress yaml file 
-inside hte file we have write hostname and in backend path we define service name which you want access and port number.
-
-For env purpose we have to use config map in kubenters inside config map we can write env variable or also we store env file and inside pod we use config map and 
-also we have define on which location this varibale will store with which name and if we have secret env like password token then we can create secret but firstly we have to
-convert our data into base 64 then we can  to created secret
-
-stateful sets used because when we restart pod or delete pod and recreate always its created by unique name but if we want our pod always created by same then we can 
-used stateful sets
-
-Login into the master node and upgrade the kubeadm tool only and Verify the upgrade plan, then Apply the upgrade plan and Update Kubelet and restart the service 
-and Update Kubelet and restart the service and Upgrade kubeadm on first worker node and and drain worker node, then Upgrade kubelet config on worker node then
-restart the service and these steps do on all worker node
 
 
 
